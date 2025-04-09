@@ -1,5 +1,4 @@
 # Belajar_analisis_data_dengan_python
-# Dicoding Collection Dashboard ✨
 
 ## Setup environment
 ```
