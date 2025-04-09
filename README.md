@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis Using Python
 
-## 1. Menggunakan Salah Satu dari Dataset yang Disediakan  
+## 1. Memilih Dataset
 Dataset yang digunakan adalah [E-Commerce Public Dataset](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) dari Brazil (Olist), yang memuat berbagai informasi transaksi dari penjual dan pembeli, termasuk data order, produk, review, pembayaran, dan lokasi.
 
 ## 2. Melakukan Seluruh Proses Analisis Data
@@ -24,8 +24,8 @@ Dilakukan secara menyeluruh, dimulai dari:
 - **Tahun 2018:** Produk kategori `bed_bath_table` paling diminati selama tahun 2018.
 - **Pendapatan Tertinggi:** Pendapatan tertinggi terjadi pada tahun **2018**, yang ditampilkan dalam bentuk bar chart berdasarkan `order_purchase_timestamp`.
 
-## 3. Notebook Tertata Rapi
-Notebook telah disusun rapi berdasarkan template, dengan bagian:
+## 3. Menyusun Notebook secara Terstruktur
+Notebook telah disusun rapi dengan bagian:
 - Identitas & Pertanyaan Bisnis
 - Import library dan dataset
 - Data Wrangling (pembersihan & penggabungan)
@@ -34,7 +34,7 @@ Notebook telah disusun rapi berdasarkan template, dengan bagian:
 - Kesimpulan
 
 ## 4. Dashboard Streamlit  
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 > **Dashboard ini dibangun menggunakan Streamlit**, yang menampilkan hasil analisis data e-commerce secara interaktif dan informatif. Beberapa fitur utama dalam dashboard ini meliputi:
 
